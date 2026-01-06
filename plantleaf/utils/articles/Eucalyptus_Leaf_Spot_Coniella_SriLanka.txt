@@ -1,8 +1,0 @@
-Eucalyptus leaf spot disease caused by Coniella eucalyptorum in Sri Lanka
-
-Abstract
-Coniella has a wide distribution as a plant pathogen in Eucalyptus species. Here we report a leaf spot disease caused by Coniella eucalyptorum on Eucalyptus camaldulensis in Sri Lanka. 
-The pathogen was isolated from symptomatic leaf samples of E. camaldulensis plants from Polonnaruwa District in Sri Lanka. The isolated fungus was identified as C.
- eucalyptorum based on morphological characteristics and multi-gene phylogenetic analysis of combined sequences of the internal transcribed spacer region (ITS), the partial translation elongation factor 1-α gene (tef1-α), and large subunit of nuclear ribosomal RNA (LSU). 
-The pathogenicity test was performed to confirm its pathogenicity to the host, which produced symptoms similar to those observed in the field. This is the first report of C. eucalyptorum associated with Eucalyptus plantations in Sri Lanka. 
-This finding is important to expand the knowledge of plant pathogen diversity in Eucalyptus species and other economically important crops in Sri Lanka.

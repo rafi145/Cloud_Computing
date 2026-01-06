@@ -1,0 +1,488 @@
+Abstract The Mycosphaerella complex accommodates thousands of taxa. Many of these species are economically
+important plant pathogens, notably on native and commercially propagated Eucalyptus species where they cause a
+wide range of disease symptoms including leaf spot, leaf blotch, shoot blight and stem cankers. Some of these
+diseases represent major impediments to sustainable Eucalyptus forestry in several countries where infection by
+Mycosphaerella and Teratosphaeria species can result in reduction of wood volume and in severe cases tree death.
+Extensive research has been conducted on these disease complexes over the past 40 years. The incorporation of
+DNA-based molecular techniques has made it possible to define and to better understand the differences between the
+Mycosphaerella and Teratosphaeria species occurring on Eucalyptus. These studies have also enabled refinement of
+anamorph and teleomorph generic concepts for the genera and thus facilitated the more accurate identification of
+species. They have also promoted a more lucid understanding of the biology, life cycles, population biology and
+epidemiology of the most important pathogens in the group.
+Keywords Capnodiales, Eucalyptus, Mycosphaerellaceae, Teratosphaeriaceae, tree diseases, leaf spots
+Introduction
+Species of Eucalyptus sensu stricto (excluding Corymbia and Angophora) are native to Australia, with only very few
+species occurring in Indonesia, Papua New Guinea and the Philippines (Ladiges 1997; Potts and Pederick 2000;
+Turnbull 2000). Many Eucalyptus species have been selected and planted as exotics in countries having tropical, subtropical and temperate climates and where they are among the favoured tree species for commercial forestry
+(Poynton 1979; Turnbull 2000). Commercial plantations of Eucalyptus spp. are second only to Pinus spp. in their
+deployment and productivity (Old et al. 2003) and over 14 million hectares of Eucalyptus spp. and their hybrids are
+grown in managed plantations (FAO 2007). Other than being suitable for planting in a wide diversity of conditions
+and climates, Eucalyptus spp. offer the advantage of desirable wood and pulp qualities and relatively short rotation
+periods (Zobel 1993; Turnbull 2000).
+Although Eucalyptus spp. are favoured for commercial forestry, they are affected by many pests and
+diseases (Elliott et al. 1998; Keane et al. 2000; Wingfield 2003; Wingfield et al. 2008). A large number of native and
+non-native fungal pathogens can infect the roots, stems and leaves of Eucalyptus spp., often simultaneously (Old and
+Davison 2000; Park et al. 2000; Old et al. 2003). It is important, therefore, to accurately identify and understand the
+biology of these pathogens and thus to develop effective management strategies.
+Mycosphaerella sensu lato is one of the largest ascomycete genera. Over 3000 taxa are currently
+accommodated in this generic complex, with species recognised as saprobes, pathogens or endophytes of many
+plants, or hyperparasites of other fungi (Crous 2009). The sexual structures of Mycosphaerella spp. are
+morphologically conserved, and species are difficult to propagate in culture, making identification difficult (Crous
+1998; Crous et al. 1991; 2004). Approximately 30 anamorph genera have been associated with Mycosphaerella
+(Crous et al. 2000; 2004; 2006; Crous 2009; Crous et al. 2009a; b). These anamorph states are morphologically
+variable and provide greater information for species delineation (Crous and Wingfield 1996; Crous et al. 2000; 2006;
+Verkley and Priest 2000).
+3
+Recent phylogenetic studies have revealed that Mycosphaerella sensu lato is polyphyletic. Thus, species
+formerly accommodated in the genus represent members of the Mycosphaerellaceae, Dissoconiaceae,
+Teratosphaeriaceae and Davidiellaceae (Schoch et al. 2006; Crous et al. 2007a; 2009b). Furthermore, these families
+consist of numerous genera, some being strictly asexual. In many cases, anamorphs are indicative of the different
+genera in this complex, with Mycosphaerella sensu stricto for example, being restricted to Ramularia anamorphs
+(Verkley et al. 2004). Ultimately, DNA sequence analyses provide the most effective means to ensure accurate
+identification of Mycosphaerella species. Therefore, morphological characteristics, combined with DNA-based
+methods have served to elucidate species concepts in the genus. As a consequence many Mycosphaerella spp.,
+including large numbers associated with Eucalyptus, have recently been transferred to the morphologically similar
+genus Teratosphaeria (Crous et al. 2007a).
+An extensive body of research on Mycosphaerella and Teratosphaeria species has been published.
+However, few published reviews are available for those species of Mycosphaerella and Teratosphaeria occurring on
+Eucalyptus. The aim of this review is, therefore, to critically analyse the existing research pertaining to outbreaks of
+Mycosphaerella and Teratosphaeria diseases on Eucalyptus and to highlight differences between the two groups of
+fungi.
+Generic Concepts
+More than 3000 taxa, which are characterised as pathogens or saprobes of various vascular and woody hosts, have
+been accommodated in Mycosphaerella sensu lato (von Arx 1983; Corlett 1991; Corlett 1995; Aptroot 2006).
+Mycosphaerella sensu lato does not group within the Dothideales, but is rather accommodated in the Capnodiales
+(Dothideomycetes) (Schoch et al. 2006). Morphologically, Mycosphaerella sensu stricto is characterised by small,
+spherical, ostiolate, pseudothecial ascomata, 8-spored, bitunicate asci without filamentous paraphyses and 2-celled,
+hyaline ascospores without appendages (von Arx 1983; Crous et al. 2000; 2007a). The spermatial state of
+Mycosphaerella species is widely accepted to reside in Asteromella (von Arx 1983; Crous and Wingfield 1996;
+Verkley et al. 2004).
+Braun (1990) showed that anamorph characters should be used for generic separation within
+Mycosphaerella. This concept was supported by Crous (1998) who evaluated morphological features of
+Mycosphaerella spp. occurring on Eucalyptus trees using multiple correspondence analysis (MCA) with their
+anamorph associations. Accordingly, and supporting the evidence of Braun (1990), species of Mycosphaerella sensu
+lato should be separated into groups reflecting this fact. Crous et al. (2000) recognised 23 anamorph genera for
+Mycosphaerella sensu lato, and separated them based on characters of the mycelium (presence or absence of
+superficial mycelium), conidiophores (arrangement, branching and pigmentation), conidiogenous cells (placement,
+proliferation and scar type) and conidia (formation, shape, septation, wall and pigmentation).
+Recent studies employing DNA sequence data for the large subunit (LSU) region of the rRNA operon have
+shown that Mycosphaerella is polyphyletic (Crous et al. 2007a; 2009a). From these studies, it became clear that
+many species accommodated in Mycosphaerella sensu lato should reside in the closely related genus Teratosphaeria.
+In addition to sequence data and despite conserved teleomorph morphology, Crous et al. (2007a) were able to
+4
+identify phylogenetically informative morphological characters which supported the accommodation of various
+Mycosphaerella species in Teratosphaeria. These morphological characters for species of Teratosphaeria include the
+presence of superficial stroma linking adjacent ascomata, ascospores that become brown and verruculose in asci, the
+presence of pseudoparaphysoidal remnants, mucous sheaths surrounding ascospores, multi-layered ascal endotunica,
+well-developed ostiolar periphyses and different anamorph genera (Crous et al. 2007a).
+Several genera have been separated from Ramularia (with Mycosphaerella sensu stricto teleomorphs;
+Mycosphaerellaceae). These include Cladosporium (with Davidiella teleomorphs; Davidiellaceae) (Braun et al.
+2003; Schoch et al. 2006; Schubert et al. 2007; Bensch et al. 2010), Polytrincium (with Cymadothea teleomorphs)
+(Simon et al. 2009), Dissoconium, Ramichloridium (Dissoconiaceae; Crous et al. 2009a), Cercospora,
+Cercosporella, Dothistroma (Eruptio teleomorphs), Lecanosticta, Miuraea, Passalora, Periconiella,
+Phaeophleospora, Phloeospora, Pseudocercospora, Pseudocercosporella, Ramulispora, Rasutoria, Septoria,
+Sonderhenia, Trochophora, Verrucisporota and Zasmidium (Crous et al. 2009a; b).
+Like Mycosphaerella, the Teratosphaeria complex (Teratosphaeriaceae; Crous et al. 2007a; 2009a; b) is far from
+completely resolved, but several different genera are recognised in the family. These include Batcheloromyces,
+Baudoinea, Capnobotryella, Catenulostroma, Davisoniella, Devriesia, Hortea, Penidiella, Phaeothecoidea,
+Pseudotaeniolina, Readeriella, Staninwardia and Stenella (Crous et al. 2009a).
+Sphaerulina is also considered to be closely related to Mycosphaerella (von Arx 1983). Although
+Sphaerulina is polyphyletic (Crous et al. 2003), Crous et al. (2011) showed that the type species, S. myriadea,
+represents a distinct lineage in the Mycosphaerellaceae.
+Comparison of Mycosphaerella and Teratosphaeria diseases
+In the past, Mycosphaerella spp. occurring on Eucalyptus have been broadly treated using the common name
+Mycosphaerella Leaf Disease (MLD) or Mycosphaerella Leaf Blotch (MLB). More than 150 species of
+Mycosphaerella and Teratosphaeria (including their anamorphs) are now recognised as causing or being associated
+with leaf and stem diseases on Eucalyptus spp. (Andjic et al. 2007; 2010; Crous 1998; Crous et al. 2004; 2006;
+2007a; 2009a; b; Burgess et al. 2007a; b; Carnegie et al. 2007; Cheewangkoon et al. 2008; 2009; Carnegie et al.
+2011). Mycosphaerella and Teratosphaeria species have been identified from both natural Eucalyptus stands and
+commercial Eucalyptus plantations, where they cause a range of symptoms including leaf spots, leaf blotch, twig and
+stem cankers, premature defoliation, multi-leadered stems, seedling blight and, in severe cases death of young trees
+(Park and Keane 1982b; Crous 1998; Park et al. 2000; Old et al. 2003). Eucalyptus spp. are generally more
+susceptible to infection by Mycosphaerella and Teratosphaeria species during their juvenile leaf phase and the leaf
+infections caused by these fungi reduce the photosynthetic capacity, leading to premature defoliation and stunting of
+growth (Park and Keane 1982b; Lundquist and Purnell 1987; Carnegie and Ades 2003; Milgate et al. 2005b; Pinkard
+and Mohammed 2006).
+The most common symptom of Mycosphaerella or Teratosphaeria infection is the development of leaf
+lesions (Fig. 1, 2). Leaf lesions may vary in shape from circular to irregular (T. cryptica, T. molleriana, T. ovata, T.
+parkii) (Dick 1982; Crous et al. 1993b; Crous and Alfenas 1995; Crous et al. 1988; Carnegie and Keane 1998;
+5
+Maxwell et al. 2003; Crous et al. 2009a), irregular (T. nubilosa) (Dick 1982), small and discrete (M. heimii) (Crous
+and Swart 1995), sub-circular to irregular (T. suttonii) (Crous and Wingfield 1997b), sub-circular (T. aurantia, M.
+irregulariramosa) (Crous and Wingfield 1997b; Maxwell et al. 2003), sub-circular to confluent to angular
+(Pseudocercospora eucalyptorum) (Crous et al. 1989d) and leaf spots may be absent (M. heimioides) (Crous and
+Wingfield 1997b; Crous 1998).
+Leaf spots caused by Mycosphaerella and Teratosphaeria species can vary in colour on leaf surfaces. Leaf
+spots can be brown (T. ambiphylla) (Maxwell et al. 2003), dark brown and corky with a yellow-red margin (T.
+suberosa) (Dick and Dobbie 2001), yellow to brown (T. nubilosa) (Crous et al. 1989a; Crous 1998), grey to pale
+brown (M. tasmaniensis, P. eucalyptorum) (Crous et al. 1989a; 1998), pale brown to red-brown [T. molleriana (as M.
+vespa)] (Carnegie and Keane 1998), dark purple to black (T. ovata) (Crous et al. 1988; Crous et al. 1989a), pale
+brown surrounded by a red-purple margin (T. suttonii) (Crous and Wingfield 1997b) rust-brown (M. intermedia)
+(Dick and Dobbie 2001) or brown with strands of red-brown, spreading hyphae (T. fimbriata) (Crous et al. 2007a).
+Distinct lesion margins and zones of various colours can also be found. For example, lesions of M.
+intermedia have raised dark brown margins that are surrounded by a red-purple zone (Dick and Dobbie 2001).
+Lesions caused by T. eucalypti (Kirramyces eucalypti) are carmine red with yellow margins that become necrotic
+with red-purple margins while T. destructans produces lesions with red-brown margins (Wingfield et al. 1996a;
+Crous and Wingfield 1997b; Andjic et al. 2007). Lesions caused by T. suttonii are surrounded by a distinct purple
+discolouration (Crous et al. 1989a) while lesions resulting from infection by T. ambiphylla are known to be suberised
+with red margins (Maxwell et al. 2003) and lesions caused by T. suberosa are surrounded by red-purple borders
+(Crous et al. 1993a).
+Lesion colour may also vary for a single species of Teratosphaeria or Mycosphaerella depending on the
+Eucalyptus host. For example, T. cryptica causes pale brown to grey-yellow lesions on E. globulus and E. saligna,
+but red-brown to grey-brown spots on E. obliqua and E. pilularis. Mycosphaerella marksii causes yellow-brown
+spots on E. saligna and E. botryoides but they are red-brown on E. pilularis.
+Although Mycosphaerella and Teratosphaeria species produce similar leaf spot symptoms as mentioned
+above, species of Teratosphaeria are associated with subtle yet important differences in disease symptoms when
+compared to Mycosphaerella spp. For example, in addition to leaves, T. cryptica can also infect young twigs and
+stems of Eucalyptus species such as E. obliqua and E. globulus subsp. globulus resulting in characteristic cankers
+(Marks et al. 1982; Park and Keane 1982b; Dick and Gadgil 1983). The development of cankers after infection is
+also observed for T. gauchensis and T. zuluensis (Crous et al. 2009a). T. gauchensis produces dark brown circular to
+irregular lesions with red-brown borders on tree trunks and black circular to irregular lesions on Eucalyptus twigs
+(Cortinas et al. 2006c), while T. zuluensis initially produces small necrotic lesions which coalesce as they mature to
+produce larger necrotic swollen cankers producing copious amounts of kino (Wingfield et al. 1996b). Such cankers
+eventually lead to stem or twig girdling, die-back of young stems, thinning of crowns, tree malformation and in
+severe cases death of tree tops or entire trees (Cortinas et al. 2006b; c).
+Leaf lesions caused by certain species of Teratosphaeria can be typical for this genus and different to those
+observed for Mycosphaerella species. Because T. cryptica generally infects young expanding leaves, it often causes
+the leaf lamina to become crinkled and contorted, resulting in a convoluted appearance commonly referred to as
+6
+“crinkle leaf disease” (Marks et al. 1982; Park and Keane 1982b), while T. nubilosa infection is generally
+characterised by the appearance of leaf blotches (also sometimes referred to as blight) on Eucalyptus leaves (Park
+and Keane 1982a; Park 1988). These species invade large areas of leaf tissue biotrophically before causing death of
+the area of invaded tissue. Such leaf blotches are a result of several individual T. nubilosa lesions that coalesce to
+form larger spreading blotches over the leaf surface (Perez et al. 2010a). Species of Teratosphaeria with Kirramyces
+anamorphs such as T. destructans, T. viscidus and T. pseudoeucalypti are associated with severe blighting of
+Eucalyptus leaves and shoots (Old et al. 2003; Andjic et al. 2007; 2010). In these instances, large areas of the leaf
+lamina can become blighted and or distorted (Wingfield et al. 1996a; Burgess et al. 2007b; Andjic et al. 2007).
+A further character distinguishing infections caused by Mycosphaerella spp. and Teratosphaeria spp. is that
+Mycosphaerella spp. generally tend to produce smaller and more distinct leaf spots. For example, Mycosphaerella
+marksii produces pale brown circular-irregular amphigenous lesions 3-20 mm diam with a grey adaxial leaf surface,
+and a yellow to red-brown abaxial leaf surface (Carnegie and Keane 1994; Crous and Wingfield 1996).
+Mycosphaerella irregulariramosa produces amphigenous, subcircular, grey to pale brown lesions 3-15 mm diameter
+(Crous and Wingfield 1997b). In some instances, leaf spots may appear to be absent with only the presence of
+pseudothecia as is the case with Mycosphaerella heimioides (Crous and Wingfield 1997b). Interestingly, even though
+species of Mycosphaerella produce diverse symptoms on Eucalyptus, as yet, no species of Mycosphaerella has been
+reported causing significant damage in plantations or native forests.
+The fact that two related but different groups of fungi cause leaf diseases on Eucalyptus can result in
+confusion. This confusion is clearly enhanced by the use of misleading common names. The same fungi can cause
+different symptoms on different species of Eucalyptus and this compounds the problem, which will likely also
+further increase as new eucalypt hybrids and genetically modified Eucalyptus trees emerge in plantations. For this
+reason, we wish to emphasise the different Eucalyptus disease symptoms caused by species of Mycosphaerella and
+Teratosphaeria, and to ensure that these differences do not cause confusion. We thus recommend that the common
+names ‘Mycosphaerella Diseases’ and ‘Teratosphaeria Diseases’ of Eucalyptus are used to define two different
+groups that have previously been broadly referred to as ‘Mycosphaerella Leaf Diseases’.
+Geographic Distribution
+The known geographic distribution of species of Mycosphaerella and Teratosphaeria causing diseases of Eucalyptus
+has grown steadily and this trend is likely to continue. These Eucalyptus leaf diseases can now be found in virtually
+all areas where Eucalyptus species are grown as non-natives in commercially managed plantations (Table 2). As
+Eucalyptus plantation areas are increased globally to meet the increasing demand for paper and pulp, there will most
+likely be an increase in the distribution of the Mycosphaerella and Teratosphaeria spp. causing disease (Wingfield et
+al. 2008). Because plantations represent large areas of relatively uniform genetic material, they act as magnets for
+pathogens that are not known in their areas of origin (Wingfield et al. 2010). Hence there will likely be an increase in
+the number of new Mycosphaerella and Teratosphaeria taxa being discovered on Eucalyptus.
+7
+Within Australia
+As the overwhelming majority of Eucalyptus spp. are endemic to Australia (Poynton 1979) it has been
+hypothesised that Australia is the centre of origin for most species of Mycosphaerella and Teratosphaeria occurring
+as specialised parasites on Eucalyptus. Early studies on Mycosphaerella leaf diseases (including those now known to
+be caused by Teratosphaeria spp.) treated collections only from Victoria and New South Wales (Park and Keane
+1982a; b). Subsequent to these investigations, studies have reported outbreaks of these fungi from all Australian
+states including Western Australia (Carnegie et al. 1997; Maxwell et al. 2001; 2003, Jackson et al. 2005; 2008), New
+South Wales (Summerell et al. 2006; Carnegie 2007a; b; Crous et al. 2007b; Carnegie et al. 2011), South Australia
+(Park and Keane 1984; Barber et al. 2008), Tasmania (Dungey et al. 1997; Crous et al. 1998; Milgate et al. 2001;
+Crous et al. 2007b; Smith et al. 2007), Victoria (Carnegie et al. 1994; 1998; Carnegie and Ades 2005) Queensland
+(Andjic et al. 2007; 2010; Crous et al. 2007b; Carnegie et al. 2011) and offshore islands in the Northern Territory
+(Burgess et al. 2007b). In the temperate regions of Australia, the most damaging outbreaks have been in Victoria and
+Tasmania, where E. globulus, highly susceptible to T. nubilosa and T. cryptica, is grown. Outbreaks are not common
+on E. globulus in areas where this species is planted in a more Mediterranean climate (e.g. Western Australia).
+In the tropics and subtropics of Australia, species of Teratosphaeria with Kirramyces anamorphs, e.g. T.
+epicoccoides, T. pseudoeucalypti and T. viscidus, are the most damaging in Eucalyptus plantations (Carnegie 2007b;
+Andjic et al. 2010a). These species have caused extensive damage in E. grandis and E. grandis ´ E. camaldulensis
+plantations, resulting in plantation failure in severe cases, such as occurred to 26 000 ha of E. grandis ´ E.
+camaldulensis in central Queensland (Elders 2010). T. cryptica can be damaging to highly susceptible species such
+as E. tereticornis and E. camaldulensis, and severe disease is one reason why these species are no longer planted
+extensively in Queensland (Pegg et al. 2003; Carnegie et al. 2011). E. globulus and E. nitens are not key plantation
+species in the tropics and subtropics, and hence T. cryptica and T. nubilosa (the most damaging species on these
+hosts) are not key pathogens. This is in comparison to temperate areas in Australia (and worldwide) where E.
+globulus and E. nitens predominate and T. cryptica and T. nubilosa are important pathogens.
+Carnegie et al. (2011) identified 28 species of Teratosphaeria and Mycosphaerella (including
+Pseudocercospora and Sonderhenia) from Eucalyptus plantations and native forests in New South Wales and
+Queensland (eastern Australia) based on surveys and published records. T. cryptica was by far the most commonly
+recorded species, being found on at least 30 host species from southern New South Wales to far north Queensland.
+M. marksii was the second most commonly recorded, on 15 hosts from southern NSW to far north Queensland, while
+T. nubilosa had a wide distribution, but restricted host range. Sonderhenia swartii is also a common species in
+Australia with a wide host range (Park and Keane1984; Park et al. 2000), but similar to M. marksii, is not considered
+an important pathogen. Jackson et al. (2008) conducted surveys within a genetics trial in Western Australia and
+identified 11 Mycosphaerella and Teratosphaeria species, two (Pseudocercospora fori, M. ellipsoidea) of which
+were new records for Australia and two (M. tasmaniensis, M. sutonii) were new records for Western Australia.
+Undoubtedly more Mycosphaerella and Teratosphaeria species will be identified from Australia in the future as
+additional surveys are undertaken.
+8
+In exotic plantations
+In New Zealand, where eucalypts are not indigenous, T. cryptica was first reported (as M. nubilosa) on E.
+delegatensis saplings by Weston (1957) and recorded by Gilmour (1966) as being very common on trees grown in
+humid conditions. Both T. cryptica and T. nubilosa are thought to have been present in New Zealand for some time
+prior to being recognized, becoming prominent during the 1960s when eucalypts were first used in forestry
+plantations (M. Dick, unpub. data). In 1974, T. cryptica reached epidemic proportions in commercial eucalypt
+plantations (Beresford 1978) and continued to cause epidemics in those forests for many years, affecting over 1000
+ha in the Central North Island (Cheah 1977). The most damaging outbreaks, caused by T. cryptica, have occurred in
+highly susceptible species such as E. delegatensis and E. regnans. T. eucalypti has also been associated with severe
+leaf damage and significant defoliation in E. nitens plantations in New Zealand (Gadgil and Dick 1983; Hood et al.
+2002; Hood and Alexander 2006).
+Large commercial Eucalyptus plantations constitute the forestry belt of eastern South Africa, with
+approximately 565 000 ha planted by 2005, over half of which is E. nitens (Rockwood et al. 2008). Commercial
+Eucalyptus forestry has also become important in several other African countries, where E. globulus is commonly a
+dominant species. Several Mycosphaerella and Teratosphaeria species have been identified in South Africa and can
+now be found in Kwa-Zulu Natal, Eastern Cape, Mpumalanga and the Limpopo provinces (Crous and Wingfield
+1996; Crous 1998; Crous et al. 2004; Hunter et al. 2004a; b). Surveys conducted in other African countries, including
+Madagascar, Malawi, Mozambique, Tanzania, Kenya, Ethiopia and Zambia, have also revealed species of
+Mycosphaerella and Teratosphaeria in Eucalyptus plantations (Crous and Swart 1995; Crous 1998; Crous et al.
+2004; 2006; Roux et al. 2005; Hunter et al. 2008; Gezahgne et al. 2006). In South Africa, E. nitens is the main
+species affected by leaf diseases caused by Teratosphaeria spp., which is different to other African countries where
+E. globulus is the most susceptible species. T. nubilosa is the most damaging species on these two hosts.
+Teratosphaeria zuluensis causes a severe canker disease on E. grandis clones in South Africa and on E.
+camaldulensis in Ethiopia (Wingfield et al. 1996b; Gezahgne et al. 2003; Cortinas et al. 2010).
+Commercial Eucalyptus forestry is increasing in European countries with favourable climates. There have
+consequently also been recent reports of Mycosphaerella and Teratosphaeria species on Eucalyptus in Europe. Early
+surveys in Europe, especially in Portugal and Spain where E. globulus is widely planted, noted the occurrence of T.
+nubilosa in the North West of Spain and the North and South of Portugal (Crous and Wingfield 1997a; Crous et al.
+2004; 2006; Hunter et al. 2008). More recent surveys have revealed many more species of Mycosphaerella and
+Teratosphaeria and reported significant damage caused by these pathogens in E. globulus plantations in both
+Portugal (Silva et al. 2008; 2009) and Spain (Otero et al. 2007a; b; Tejedor 2007). In these countries T. nubilosa has
+been the predominant species associated with severe damage (Otero et al. 2007a; b). Other European countries where
+species of Mycosphaerella and Teratosphaeria have been identified on Eucalyptus include Italy and France (Crous et
+al. 2007b).
+South America has some of the largest commercial Eucalyptus plantations, utilised for paper and pulp
+production, with over 3.7 million ha in Brazil, Chile and Argentina alone (Rockwood et al. 2008). Consequently
+there have also been many Mycosphaerella and Teratosphaeria species identified from several countries in South
+9
+America including Brazil, Colombia, Chile, Mexico, Uruguay and Venezuela (Crous et al. 1993a; b; 2007a; b;
+Wingfield et al. 1995; Crous 1998; Cortinas et al. 2006c; Perez et al. 2009; Perez et al. 2009; Perez et al. 2010b).
+Eucalyptus planting in Asia has expanded substantially in recent years with over 750 000 ha being planted
+(Old et al. 2003; Rockwood et al. 2008), mostly in the past decade. Recent surveys conducted in Asia have shown
+that diseases caused by Teratosphaeria spp. are common in the area (Old et al. 2003; Zhou et al. 2008; Zhou and
+Wingfield 2011). These fungi have been reported from China, Indonesia, India, Thailand and Vietnam (Crous and
+Alfenas 1995; Crous and Wingfield 1997b; Burgess et al. 2006; Crous et al. 2006; Cortinas et al. 2006b; Burgess et
+al. 2007; Cheewangkoon et al. 2008). While there are various species of Teratosphaeria and Mycosphaerella causing
+mainly leaf spot symptoms in these countries, Teratosphaeria destructans (Wingfield et al. 1996a) is by far the most
+important and damaging (Andjic et al. 2011).
+In summary, T. nubilosa and T. cryptica are the most destructive foliar pathogens on E. nitens and E.
+globulus planted in temperate climatic zones, while T. destructans, T. pseudoeucalypti and T. viscidus are the most
+destructive on E. grandis and its hybrids in the tropics and subtropics. Furthermore, in the tropics and subtropics T.
+zuluensis causes a major stem disease on E. grandis, E. camaldulensis, E. urophylla and their hybrids, while in
+temperate areas, there appears to be no corresponding pathogen-host relationship for stem fungi. Therefore, to avoid
+large outbreaks, specific site matching should consider the Eucalyptus spp. being planted and the dominant
+Teratosphaeria spp. present in that particular climatic zone.
+DNA-based techniques for identification
+The use of DNA sequence data for taxonomic studies on Mycosphaerella and Teratosphaeria species infecting
+Eucalyptus is now standard practice. The first studies investigating Mycosphaerella species associated with MLD
+targeted the Internal Transcribed Spacer (ITS) region of the rRNA operon (Crous et al. 1999). These early studies
+were largely used for species identification and early elucidation of generic concepts for Mycosphaerella. However,
+as more strains of Mycosphaerella and Teratosphaeria were sequenced, it became evident that certain deeper nodes
+within the ITS phylogenies were not supported and terminal species complexes proved difficult to resolve (Crous et
+al. 2000; 2001). Subsequent studies, therefore, used multi-gene loci to investigate generic concepts in
+Mycosphaerella and Teratosphaeria. Here, DNA sequence data from more conserved gene regions such as the LSU
+were used to provide support for deeper nodes and to circumscribe genera within the Mycosphaerellaceae and
+Teratosphaeriaceae. More variable and more rapidly evolving nuclear and protein coding gene regions such as actin
+(ACT), b-tubulin (Bt), calmodulin (CAL) and translation elongation factor 1-alpha (EF1-a) have been used to
+resolve species complexes (Crous et al. 2004; Hunter et al. 2006b; Crous et al. 2007a, Andjic et al. 2010a).
+Currently, DNA sequences for several gene regions are used simultaneously in order to produce multi-gene
+phylogenies of Mycosphaerellaceae and Teratosphaeriaceae.
+Generation of large DNA sequence datasets, predominantly of ITS sequences, have made many sequence
+targets available for species-specific priming. Likewise, by developing species-specific primers, researchers have
+been able to effectively identify specific Mycosphaerella and Teratosphaeria species on Eucalyptus (Table 1).
+10
+Kularatne et al. (2004) developed species-specific primers for T. nubilosa and, by employing restriction
+endonucleases in combination with specific primers, were able to distinguish between T. nubilosa, T. cryptica, M.
+tasmaniensis and M. vespa through PCR-based Restriction Fragment Length Polymorphisms (RFLP). Maxwell et al.
+(2005) also targeted the ITS regions, producing species-specific primers to differentiate between T. cryptica, D.
+dekkeri (as M. lateralis), M. marksii, T. nubilosa and T. parva. Later, Glen et al. (2007) used a nested PCR approach
+to accurately identify several Mycosphaerella and Teratosphaeria species from diseased Eucalyptus leaf material,
+thereby considerably facilitating species identification.
+Population biology of Mycosphaerella and Teratosphaeria species
+Many Mycosphaerella and Teratosphaeria species are important pathogens of economically relevant agronomic
+crops. In the past, most studies of Mycosphaerella spp. have focussed on their taxonomy, phylogeny, epidemiology
+and host associations. Recently, however, the population biology of fungal pathogens, including Mycosphaerella
+spp., has promoted an understanding of the population structure of many important pathogens (McDonald 1997;
+Hayden et al. 2003a; b; Zhan et al. 2003; Hunter et al. 2008; Perez et al. 2010a). Extensive research into the
+population biology of several other Mycosphaerella spp. such as Zymoseptoria tritici (as Mycosphaerella
+graminicola) (Linde et al. 2002; Zhan et al. 2003; Quaedvlieg et al. 2011), Pseudocercospora fijiensis (as
+Mycosphaerella fijiensis) (Carlier et al. 1996; Hayden et al. 2003a) and M. musicola (Hayden et al. 2003b) have been
+published in recent years. Results of these studies have led to an increased understanding of the population structure,
+distribution of genetic diversity, gene flow, centres of origin and mating strategies of Mycosphaerella spp. Limited
+population biology research has, however, been conducted on Mycosphaerella and Teratosphaeria species occurring
+on Eucalyptus. Thus, knowledge of the population biology of other Mycosphaerella pathosystems provides a better
+understanding that can be used for future population biology studies of Mycosphaerella and Teratosphaeria species
+occurring on these trees.
+In contrast to species causing disease of agronomic crops, relatively few studies have been undertaken to
+consider the centres of origin of Mycosphaerella or Teratosphaeria species on Eucalyptus. For example, putative
+centres of origin have been determined for certain Mycosphaerella spp. such as P. fijiensis and Z. tritici, which are
+well-characterised pathogens of banana and wheat, respectively. Carlier et al. (1996) determined that populations of
+P. fijiensis from South East Asia had greater allelic and gene diversity than P. fijiensis populations from Africa, the
+Pacific Islands and Latin America. Here, more than 88 % of the alleles detected in the African, Pacific Islands and
+Latin American populations were also found in the South East Asian P. fijiensis population, indicating that South
+East Asia is most likely the centre of origin of the species. Zhan et al. (2003) investigated the global structure of the
+wheat pathogen Z. tritici by employing data generated from genomic RFLPs and found that populations of the
+pathogen from the Middle East (Israel and Syria) exhibited higher gene diversity values than populations from
+America, Australia, Europe or North America. It was, therefore, suggested that Z. tritici originates from the Middle
+East where wheat was also first domesticated (Zhan et al. 2003).
+One Eucalyptus pathogen that has been intensively studied in terms of its origin is T. nubilosa. Hunter et al.
+(2008) used allele size data from 10 microsatellite markers to show that a population of T. nubilosa from eastern
+11
+Australia exhibited a higher gene diversity (0.506) and genotypic diversity (76%) than T. nubilosa populations from
+Western Australia and South Africa. This therefore indicated that eastern Australia was most likely the centre of
+origin for T. nubilosa. More recently, Perez et al. (2009; 2010b) has shown that the first outbreak of this pathogen in
+South America, devastating E. globulus in Uruguay and southern Brazil, most likely originated in Spain. The
+Spanish population has been shown by Hunter et al. (2008) to have originated in South Africa.
+The severe damage that T. zuluensis and T. gauchensis cause to Eucalyptus stems, has led to studies to
+consider the origin of these pathogens. Cortinas et al. (2010) used 11 polymorphic microsatellite markers to examine
+the genetic diversity of T. zuluensis populations from South Africa, Malawi and China and they were able to show
+that T. zuluensis is not native to South Africa as had been previously suggested (Wingfield et al. 1996b). More
+interesting is the fact that T. zuluensis in South Africa, Malawi and China appear to be separate, distinctly evolving
+populations that have most probably arisen from separate introductions from other source populations. A recent
+study by Chen et al. (2011) has shown that T. zuluensis is genetically diverse in China but this could have arisen due
+to multiple introductions of the pathogen. Thus the centre of origin of T. zuluensis remains uncertain, even though it
+is not known in Australia, it could have originated there.
+Teratosphaeria destructans is sufficiently damaging that studies have begun to consider its possible origin.
+Initially identified from Northern Sumatra in 1996 (Wingfield et al. 1996a), T. destructans has subsequently been
+found in other South East Asian countries including Thailand, China, Timor, Vietnam and Indonesia. Early
+hypotheses suggested Indonesia or Australia would be the center of origin for T. destructans (Wingfield et al.
+1996a). Subsequent studies investigating nucleotide diversity for several genomic loci have found limited diversity,
+and instead, have relied on microsatellite markers to identify several haplotypes of T. destructans from Indonesia
+while identifying only a single haplotype in the rest of Asia (Andjic et al. 2011). Interestingly, Burgess et al. (2007b)
+identified T. destructans in Australia and showed Australian isolates to be genetically related to those from Asia,
+suggesting endemism of T. destructans in Australia. Future studies incorporating results from more variable genetic
+markers and larger populations of T. destructans from its entire geographic range will undoubtedly clarify the centre
+of origin of this important Eucalyptus pathogen.
+Host shifts
+For many years, species of Mycosphaerella have been thought to represent exclusively host-specific taxa. However,
+increased sampling has shown that many species of Mycosphaerella can be found on a wide range of different host
+plants. The ability of some Mycosphaerella spp. to infect several hosts has been referred to as the “pogo-stick”
+hypothesis (Crous and Groenewald 2005). This hypothesis suggests that species of Mycosphaerella are able to infect
+alternative hosts on which infection occurs at low levels but provides inoculum for dispersal to their natural host
+(Crous and Groenewald 2005).
+Host shifts are now recognised as important in tree pathogens (Slippers et al. 2005) and also in several
+Mycosphaerella and Teratosphaeria species infecting Eucalyptus. Several species of Mycosphaerella previously
+thought to be specific to Eucalyptus have been identified from other hosts. For example, Dissoconium commune, a
+common species originally identified from Eucalyptus globulus in Spain, is now also known to infect Protea
+12
+magnifica in Australia and other Eucalyptus spp. such as E. nitens (South Africa) and E. globulus (New Zealand)
+(Crous et al. 2004). Mycosphaerella konae was known only from Hawaii where it infects species of Banksia and
+Leucospermum, but has recently been identified from leaves of E. camaldulensis in Thailand (Crous et al. 2007b).
+Mycosphaerella holualoana was originally described from leaf spots of Leucospermum sp. in Hawaii (Taylor et al.
+2001), and has recently been isolated from dead leaves of Hedychium coronarium in Hawaii (Crous et al. 2011d).
+One of the most cosmopolitan Mycosphaerella spp. found on Eucalyptus is M. marksii, which is known from several
+Eucalyptus spp. and different countries. This species is also known to infect Leucadendron tinctum (Crous et al.
+2008), and is common on Syncarpia glomulifera (Myrtaceae) in native forests in eastern Australia (Carnegie 2007a),
+where it can be intermixed with E. pilularis also infected with M. marksii. Mycosphaerella acaciigena and M.
+thailandica were originally described from leaves of Acacia mangium and more recently they have been identified
+causing lesions on species of Eucalyptus species and Eucalyptus hybrids (Crous et al. 2007b).
+Several species of Teratosphaeria are also known to infect various hosts. Teratosphaeria associata,
+originally described from leaves of Corymbia henryii in Australia and also known from C. variegata and E. dunnii
+has recently been reported from Protea lepidocarpodendron (Crous et al. 2007b; 2008). Furthermore, the wellknown Teratosphaeria parva, a cosmopolitan species on various species of Eucalyptus has now been identified from
+Protea repens and P. nitida in South Africa (Crous et al. 2007b). Readeriella minutispora, originally described from
+leaves of Corymbia henryii in Australia, was subsequently identified from a Cussonia sp. in South Africa (Crous et
+al. 2007b).
+The ability of Mycosphaerella and Teratosphaeria species to infect other hosts is a cause for concern. This
+is especially true when one considers the ability of these pathogens to infect hosts from different plant orders such as
+Myrtales, Proteales, Fabales and Apiales and different families such as Myrtaceae (Corymbia spp., Eucalyptus spp.,
+Syncarpia spp.), Proteaceae (Protea spp., Banksia spp., Leucospermum spp., Leucadendron spp.), Fabaceae (Acacia
+spp.) and Araliaceae (Cussonia spp.). New records of Mycosphaerella and Teratosphaeria species occurring in new
+areas are increasing, indicating that the geographic distribution of many species is significantly larger than
+previously thought. The apparent ease with which these fungi move between hosts is of concern not only to
+commercial forestry companies but also in agronomic crops. Quarantine and management strategies for
+Mycosphaerella and Teratosphaeria species will, therefore, become increasingly important in the future.
+Control and Quarantine
+Several authors have discussed management options for those species of Mycosphaerella and Teratosphaeria
+causing important diseases of Eucalyptus plantations and nurseries (Brown and Ferreira 2000; Gadgil et al. 2000;
+Old et al. 2003; Carnegie 2007b). These options focus on quarantine, genetic manipulation (tree improvement), siterisk mapping, increasing tree tolerance and recovery as well as chemical control in nurseries. Some of the challenges
+of disease management in plantations include the large and often disparate areas of plantation where regular surveys
+and monitoring is difficult, long rotations (5-15 years for pulp and fibre, 15-25 years for solid wood and sawn
+timber) and a relatively low return on investment.
+13
+The movement and spread of fungal pathogens is of primary importance when considering management
+strategies for their control. This is particularly true for the many species of Mycosphaerella and Teratosphaeria
+known to be important pathogens of economically important crop plants. Mycosphaerella and Teratosphaeria
+species can be spread to new areas in several ways and thus initiate new epidemics in native and exotic
+environments. Infected seed or asymptomatic nursery stock may serve as vehicles for the movement of
+Mycosphaerella and Teratosphaeria species into non-native environments as has been shown for species of
+Mycosphaerella and Teratosphaeria that have been moved from eastern Australia into Western Australia (Maxwell
+et al. 2003; Jackson et al. 2008). The rapid movement of T. destructans throughout South East Asia is ascribed to the
+movement of infected germplasm (Adjic et al. 2011). Seed that is transferred between countries should thus be tested
+for pathogen propagules (Boeger et al. 1993). The movement of seed has also been suggested as the possible means
+by which T. zuluensis has moved between countries and around the world where Eucalyptus spp. are commercially
+grown (Cortinas et al. 2006c). Infected seed could also be tested for the presence of Mycosphaerella and
+Teratosphaeria species by using species-specific primers that have been developed for several Mycosphaerella and
+Teratosphaeria species that infect Eucalyptus (Kularatne et al. 2004; Maxwell et al. 2005).
+Natural host resistance or tolerance to pathogen infection provides one of the most commonly used means
+to reduce damage to Eucalyptus by species of Mycosphaerella and Teratosphaeria. Numerous studies have reported
+wide variation in susceptibility to these pathogens amongst Eucalyptus species, provenances and families (Carnegie
+and Ades 2005; Carnegie et al. 1994; 1998; 2004; Dungey et al. 1997; Hood et al. 2002; Milgate et al. 2005a; Purnell
+and Lundquist 1986). Thus, E. globulus has been replaced with E. nitens in high-risk areas in Tasmania, Australia to
+reduce the impact of MLD (Mohammed et al. 2003). Likewise, E. nitens has replaced E. globulus in South Africa
+(Lundquist and Purnell 1987) to avoid damage due to T. nubilosa.
+Selected hybrids between tree species are known to be more resistant to certain Mycosphaerella and
+Teratosphaeria species. Hybrid poplars have for example been used to reduce the impact of M. populorum
+(anamorph Septoria musiva), the causal agent of leaf spot and cankers of various Populus spp. (Feau et al. 2005).
+Likewise, hybrids have been important in reducing the impact of stem canker caused by T. zuluensis in South Africa
+(Wingfield, unpublished). However, clones derived from hybridisation can differ markedly in their resistance to
+disease. Thus substantial effort must be expended to select appropriate hybrids for planting.
+Considering Australia is the origin of most Eucalyptus spp. and most likely the centre of diversity for
+Mycosphaerella and Teratosphaeria species that occur on these trees, co-evolution between these fungi and their
+hosts is expected. Therefore, resistant Eucalyptus spp. can be sourced from Australia to reduce the impact caused by
+Mycosphaerella and Teratosphaeria species. In many countries where Eucalyptus spp. have been grown as exotics,
+natural hybridisation has occurred between species and this has led to the emergence of land races from which
+resistance to species of Mycosphaerella and Teratosphaeria can be found (Wingfield et al. 2001; 2008).
+The movement of infected Eucalyptus plant material between countries and continents appears to be
+increasing (Wingfield et al. 2001; 2008). There is good evidence that this is leading to the emergence of many fungal
+pathogens of Eucalyptus in new environments (Wingfield 1999; Wingfield et al. 2008, Andjic et al. 2011). Through
+human mediated dispersal, propagules of Mycosphaerella and Teratosphaeria species will most likely increasingly
+14
+be transferred within and between countries and continents. Quarantine measures should consequently be strictly
+implemented and updated to reduce the risk of fungal pathogens being introduced into non-native environments.
+Future prospects
+Phylogenetic studies based on DNA sequence data from several gene regions have shown a very large group of
+Eucalyptus pathogens treated as Mycosphaerella sensu lato are now better placed in two distinct genera, namely
+Mycosphaerella and Teratosphaeria (Crous et al. 2007a). The most damaging Eucalyptus pathogens appear to be
+species of Teratosphaeria including T. cryptica, T. nubilosa, T. destructans, T. pseudoeucalypti, T. gauchensis, T.
+viscidus and T. zuluensis (Wingfield et al. 1996a; Crous 1998; Cortinas et al. 2006b; c; Andjic et al. 2007; Hunter et
+al. 2009; Andjic et al. 2010a). However, based on experience with other crops, those in Mycosphaerella occurring on
+Eucalyptus should not be ignored and they could become important in the future.
+Accurate diagnosis of Eucalyptus diseases caused by species of Teratosphaeria is now possible due to
+advances in DNA-based molecular techniques such as PCR and DNA sequencing. In this regard, real-time
+amplification technologies offer an attractive method for Mycosphaerella and Teratosphaeria species identification.
+Extensive datasets of gene sequences from several loci have been generated for those species of Mycosphaerella and
+Teratosphaeria associated with Eucalyptus and these data can now be targeted for species identification. Speciesspecific oligonucleotides can easily be generated and combined with specific probes and several real-time techniques
+to be used in identification and quantification. This has already occurred for other “Mycosphaerella” pathogens such
+as P. fijiensis, P. musicola and P. eumusae on banana (Arzanlou et al. 2007) and Z. tritici on wheat (Gou et al. 2006;
+Abd-Elsalam et al. 2011). These techniques are geared to high-throughput, speed and accuracy, and can be used to
+detect the causal organism in vitro and to monitor disease progression as well as aid in disease forecasting for
+fungicide applications.
+Very little is known regarding the population genetics of the most important Teratosphaeria species. This is
+in contrast to some of the Mycosphaerella pathogens on agricultural crops such as wheat (Zhan et al. 2003; Zhan and
+McDonald 2004). However, in recent years, several polymorphic markers have been developed for important
+Teratosphaeria spp. occurring on Eucalyptus such as T. nubilosa (Hunter et al. 2006a), T. zuluensis (Cortinas et al.
+2006a) and T. destructans (Andjic et al. 2011). These markers have allowed for an increased understanding into the
+genetic diversities of some of the most important Teratosphaeria spp. causing disease on Eucalyptus. However, there
+are other important Teratosphaeria spp., such as T. cryptica, for which little is known regarding its population
+structure, although microsatellite primers have now been developed for T. cryptica (Taylor et al. 2011). It will be
+important to develop informative DNA-based molecular markers to further understand and elucidate the
+epidemiology of these pathogens on Eucalyptus.
+Genome sequencing is rapidly becoming affordable for scientific investigations. This is also true for fungal
+pathogens of important crops where many genomes have already been sequenced, including species of
+Mycosphaerella and Teratosphaeria such as Z. tritici (M. graminicola) and P. fijiensis. Through the Mycosphaerella
+Genome Consortium several more Mycosphaerella and Teratosphaeria species including T. nubilosa will be
+sequenced in the near future. Once these data become available, researchers will be able to select phylogenetically
+15
+informative markers that, in combination with existing markers or on their own, will increase genetic resolution for
+several complexes within Mycosphaerella and Teratosphaeria. These genomes will also make it possible to better
+understand many aspects of the pathogenicity of these fungi
+Mycosphaerella and Teratosphaeria species are difficult to culture. It is not unreasonable to expect that
+there are at least as many Mycosphaerella and or Teratosphaeria species infecting Eucalyptus spp. as there are
+Eucalyptus species. Thus, there is still much to discover in terms of Mycosphaerella and Teratosphaeria biodiversity
+on Eucalyptus. Metagenomics provides a powerful approach to explore and catalogue the biodiversity of these
+species either on leaf material or in cankers on Eucalyptus. Specific universal loci such as the ITS region can be
+targeted and used in a metagenomics approach to isolate sequences that will further populate the Mycosphaerella and
+Teratosphaeria phylogeny. Although these novel sequences will not be linked back to specimens, researchers will
+gain an increased understanding of Mycosphaerella biodiversity, and undoubtedly new sequence types and or
+lineages within Mycosphaerella and Teratosphaeria will be identified
